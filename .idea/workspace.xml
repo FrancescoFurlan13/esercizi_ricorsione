@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0914659-b1ca-45fe-b75e-315c345cac51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/esercizi_ricorsione.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binomial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/countdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/palindrome.py" afterDir="false" />
+    <list default="true" id="f0914659-b1ca-45fe-b75e-315c345cac51" name="Changes" comment="Fine L17">
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +39,7 @@
     "Python.binomial.executor": "Run",
     "Python.countdown.executor": "Run",
     "Python.factorial.executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.nested_list.executor": "Run",
     "Python.palindrome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718961822204</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fine L17">
+      <option name="closed" value="true" />
+      <created>1718980638246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718980638246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fine L17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fine L17" />
   </component>
 </project>
